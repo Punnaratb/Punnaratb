@@ -10,7 +10,7 @@
   "keywords": [
     "express"
   ],
-  "author": "Piyachat Bunso",
+  "author": "Punnarat Buathong",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
